@@ -1,0 +1,26 @@
+# MATLAB generated files
+*.asv
+*.autosave
+*.m~
+*.slxc
+*.mex*
+*.mlappinstall
+*.mltbx
+*.log
+
+# MATLAB project and cache data
+**/.MATLABProject/
+**/resources/project/
+**/slprj/
+**/codegen/
+**/cache/
+
+# Test and coverage output
+test-results/
+code-coverage/
+
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
