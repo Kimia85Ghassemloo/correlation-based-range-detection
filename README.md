@@ -22,7 +22,7 @@ range error as the received signal becomes increasingly noisy.
 - Configurable sample time, pulse width, and propagation speed
 - Reproducible Gaussian-noise simulations
 - MATLAB unit tests and GitHub Actions continuous integration
-- Original problem statement and early exploratory scripts retained for context
+- An early noise-sensitivity experiment retained for comparison
 
 ## Quick start
 
@@ -66,8 +66,6 @@ speed of 3e8 m/s, and a target at 450 m.
 |-- CalcMeanError.m           # Monte Carlo error analysis
 |-- runRangeDetectionDemo.m   # End-to-end example and plots
 |-- tests/                    # Automated MATLAB tests
-|-- ca1.pdf                   # Original problem statement (Persian)
-|-- CA1_part3.m               # Early correlation experiment
 `-- p3_4.m                    # Early noise-sensitivity experiment
 ```
 
