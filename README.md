@@ -105,7 +105,7 @@ zero-energy windows are assigned a score of zero.
 |-- MakeSignalNoisy.m         # Additive white Gaussian-noise model
 |-- CalcMeanError.m           # Reproducible Monte Carlo analysis
 |-- runRangeDetectionDemo.m   # End-to-end simulation and visualisation
-|-- p3_4.m                    # Original exploratory noise experiment
+|-- runNoiseRobustnessExperiment.m # Exploratory noise-sensitivity script
 |-- tests/
 |   `-- testRangeDetection.m  # MATLAB unit tests
 `-- .github/workflows/

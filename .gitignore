@@ -19,6 +19,10 @@
 test-results/
 code-coverage/
 
+# Local-only course materials and exploratory work
+local-course-materials/
+local-experiments/
+
 # Operating systems and editors
 .DS_Store
 Thumbs.db
